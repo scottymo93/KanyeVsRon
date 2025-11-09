@@ -1,0 +1,17 @@
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/bin/Debug/net9.0/KanyeVsRon
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/bin/Debug/net9.0/KanyeVsRon.deps.json
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/bin/Debug/net9.0/KanyeVsRon.runtimeconfig.json
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/bin/Debug/net9.0/KanyeVsRon.dll
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/bin/Debug/net9.0/KanyeVsRon.pdb
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.csproj.AssemblyReference.cache
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.AssemblyInfoInputs.cache
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.AssemblyInfo.cs
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.csproj.CoreCompileInputs.cache
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.csproj.Up2Date
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.dll
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/refint/KanyeVsRon.dll
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.pdb
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/KanyeVsRon.genruntimeconfig.cache
+/Users/scott/Desktop/repos/KanyeVsRon/KanyeVsRon/obj/Debug/net9.0/ref/KanyeVsRon.dll
